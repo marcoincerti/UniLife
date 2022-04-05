@@ -1,0 +1,4 @@
+#Fri May 21 18:02:56 CEST 2021
+base.0=/Users/marcoincerti/flutter_app4/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

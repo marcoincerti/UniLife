@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">621010608620-pkcn708tvjhugo0onfskrelujnml1i18.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://dawey-d1e05.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">621010608620</string>
+    <string name="google_api_key" translatable="false">AIzaSyDt02BBYFsHj_rLPAguyQTgkg86zmORht0</string>
+    <string name="google_app_id" translatable="false">1:621010608620:android:8485a7b05e5ef008fb20c9</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDt02BBYFsHj_rLPAguyQTgkg86zmORht0</string>
+    <string name="google_storage_bucket" translatable="false">dawey-d1e05.appspot.com</string>
+    <string name="project_id" translatable="false">dawey-d1e05</string>
+</resources>

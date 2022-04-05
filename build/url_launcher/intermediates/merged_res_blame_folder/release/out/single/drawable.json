@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/marcoincerti/flutter_app4/build/url_launcher/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/Users/marcoincerti/.gradle/caches/transforms-2/files-2.1/e26becd950f23728ed8dd2f4964ad372/core-1.1.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/marcoincerti/flutter_app4/build/url_launcher/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/Users/marcoincerti/.gradle/caches/transforms-2/files-2.1/e26becd950f23728ed8dd2f4964ad372/core-1.1.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/marcoincerti/flutter_app4/build/url_launcher/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/Users/marcoincerti/.gradle/caches/transforms-2/files-2.1/e26becd950f23728ed8dd2f4964ad372/core-1.1.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/marcoincerti/flutter_app4/build/url_launcher/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/Users/marcoincerti/.gradle/caches/transforms-2/files-2.1/e26becd950f23728ed8dd2f4964ad372/core-1.1.0/res/drawable/notification_icon_background.xml"
+    }
+]
